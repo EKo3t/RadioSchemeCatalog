@@ -14,13 +14,13 @@ using System.Web.Mvc;
 namespace RadioSchemeCatalog.Controllers
 {
     [Authorize(Roles = "Admin")]
-    public class UsersAdminController : BaseController
+    public class UserAdminController : BaseController
     {
-        public UsersAdminController()
+        public UserAdminController()
         {
         }
 
-        public UsersAdminController(ApplicationUserManager userManager, ApplicationRoleManager roleManager)
+        public UserAdminController(ApplicationUserManager userManager, ApplicationRoleManager roleManager)
         {
             UserManager = userManager;
             RoleManager = roleManager;

@@ -1,11 +1,11 @@
-﻿@model IdentitySample.Models.RegisterViewModel
+﻿@model RadioSchemeCatalog.Models.RegisterViewModel
 @{
     ViewBag.Title = "Create";
 }
 
 <h2>@ViewBag.Title.</h2>
 
-@using (Html.BeginForm("Create", "UsersAdmin", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+@using (Html.BeginForm("Create", "UserAdmin", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
 {
     @Html.AntiForgeryToken()
     <h4>Create a new account.</h4>
