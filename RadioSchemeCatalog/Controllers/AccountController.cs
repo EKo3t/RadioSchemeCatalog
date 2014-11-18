@@ -14,7 +14,7 @@ using RadioSchemeCatalog.Models;
 namespace RadioSchemeCatalog.Controllers
 {
     [Authorize]
-    public class AccountController : Controller
+    public class AccountController : BaseController
     {
         private ApplicationUserManager _userManager;
 

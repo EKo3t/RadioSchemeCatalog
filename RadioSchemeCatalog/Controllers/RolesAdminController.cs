@@ -8,13 +8,11 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using System.Collections.Generic;
-using RadioSchemeCatalog;
-using RadioSchemeCatalog.Models;
 
-namespace IdentitySample.Controllers
+namespace RadioSchemeCatalog.Controllers
 {
     [Authorize(Roles = "Admin")]
-    public class RolesAdminController : Controller
+    public class RolesAdminController : BaseController
     {
         public RolesAdminController()
         {

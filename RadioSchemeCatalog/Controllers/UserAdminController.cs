@@ -14,7 +14,7 @@ using System.Web.Mvc;
 namespace RadioSchemeCatalog.Controllers
 {
     [Authorize(Roles = "Admin")]
-    public class UsersAdminController : Controller
+    public class UsersAdminController : BaseController
     {
         public UsersAdminController()
         {
