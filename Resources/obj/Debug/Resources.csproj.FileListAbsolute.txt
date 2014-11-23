@@ -1,0 +1,10 @@
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\bin\Debug\Resources.dll
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\bin\Debug\Resources.pdb
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\bin\Debug\Ru\Resources.resources.dll
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Resources.Resources.resources
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Resources.Resources.Ru.resources
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Ru\Resources.resources.dll
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Resources.dll
+Z:\GitHub_Repositories\RadioSchemeCatalog\Resources\obj\Debug\Resources.pdb
